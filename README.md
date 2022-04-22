@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willothy
 - 👀 I’m interested in compilers, graphics programming and game development.
 - 🌱 I’m currently learning LLVM.
-- 💞️ I’m looking to collaborate on language projects!
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me -> willothyh@gmail.com
 
 <!---

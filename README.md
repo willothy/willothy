@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willothy
 - 👀 I’m interested in compilers and anything else systems-related.
-- 🌱 I’m currently working nvim-utils.
+- 🌱 I’m currently working on nvim-utils.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willothy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

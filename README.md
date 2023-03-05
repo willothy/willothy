@@ -21,7 +21,7 @@
 
 <div align="left">
 	<br>
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willothy&layout=compact&theme=dracula" />
+    <img width="400" height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact&theme=dracula" />
     <img width="400" height="200" src="https://raw.githubusercontent.com/willothy/willothy/main/badges.svg?sanitize=true" alt="Click to see the source" />
 	<br>
 </div>

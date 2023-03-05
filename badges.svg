@@ -13,42 +13,31 @@
 						sans-serif,
 						'Apple Color Emoji',
 						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
 				}
 			</style>
 			<div class="container">
 				<div id="left">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact&theme=dracula" />
-        </div>
-        <div id="right">
-          <img alt="OpenSUSE" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" />
-          <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-          <a href="https://github.com/willothy?tab=repositories&q=nvim&type=public&language=&sort=">
-          <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-          </a>
-          <img alt="Tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+				  <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&amp;layout=compact&amp;theme=dracula" />-->
+				</div>
+				<div id="right">
+				<!--
+					<img alt="OpenSUSE" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&amp;logo=SUSE&amp;logoColor=white" />
+				  <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=white" />
+				  <a href="https://github.com/willothy?tab=repositories&amp;q=nvim&amp;type=public&amp;language=&amp;sort=">
+				  <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&amp;style=for-the-badge&amp;logo=neovim&amp;logoColor=white" />
+				  </a>
+				  <img alt="Tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&amp;logo=tmux&amp;logoColor=white" />
 
-          <a href="https://github.com/willothy?tab=repositories&q=&type=public&language=rust&sort=">
-          <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
-          </a>
-          <a href="https://github.com/willothy?tab=repositories&q=&type=public&language=lua&sort=">
-          <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-          </a>
-          <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-          <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        </div>
+				  <a href="https://github.com/willothy?tab=repositories&amp;q=&amp;type=public&amp;language=rust&amp;sort=">
+				  <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&amp;logo=rust&amp;logoColor=#E57324" />
+				  </a>
+				  <a href="https://github.com/willothy?tab=repositories&amp;q=&amp;type=public&amp;language=lua&amp;sort=">
+				  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white" />
+				  </a>
+				  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
+				  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+				-->
+				</div>
 			</div>
 		</div>
 	</foreignObject>

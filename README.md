@@ -2,6 +2,7 @@
 - 👀 I’m interested in compilers and anything else systems-related.
 - 🌱 I’m currently working on nvim-utils.
 
+<!--
 ![OpenSUSE](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
@@ -14,6 +15,16 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact&theme=dracula)
+-->
+
+
+
+<div align="left">
+	<br>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willothy&layout=compact&theme=dracula" />
+    <img width="400" height="200" src="badges.svg" alt="Click to see the source" />
+	<br>
+</div>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willothy&layout=compact&theme=dracula)](https://github.com/willothy)-->
 

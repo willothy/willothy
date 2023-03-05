@@ -20,23 +20,6 @@
 	        color: #fefefe;
         }
         
-        @media (prefers-color-scheme: dark) {
-          /* Dark theme styles go here */
-          .rowtitle {
-            color: #fefefe
-          }
-        }
-
-        @media (prefers-color-scheme: light) {
-          /* Light theme styles go here */
-          .rowtitle {
-            color: #1f1f1f
-          }
-        }
-        
-        .badgerow {
-        
-        }
 			</style>
 			<div class="container">
       <div class="rowtitle">OS</div>

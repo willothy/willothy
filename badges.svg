@@ -17,7 +17,7 @@
 			</style>
 			<div class="container">
 				<div id="left">
-				  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&amp;layout=compact&amp;theme=dracula" />
+				  <!--<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&amp;layout=compact&amp;theme=dracula" />-->
 				</div>
 				<div id="right">
 				  <img alt="OpenSUSE" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&amp;logoColor=white" />
@@ -27,14 +27,14 @@
 				  </a>
 				  <img alt="Tmux" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&amp;logo=tmux&amp;logoColor=white" />
 
-				  <a href="https://github.com/willothy?tab=repositories&amp;q=&amp;type=public&amp;language=rust&amp;sort=">
+				  <!--<a href="https://github.com/willothy?tab=repositories&amp;q=&amp;type=public&amp;language=rust&amp;sort=">
 				  <img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&amp;logo=rust&amp;logoColor=#E57324" />
 				  </a>
 				  <a href="https://github.com/willothy?tab=repositories&amp;q=&amp;type=public&amp;language=lua&amp;sort=">
 				  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&amp;logo=lua&amp;logoColor=white" />
 				  </a>
 				  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
-				  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+				  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />-->
 				</div>
 			</div>
 		</div>

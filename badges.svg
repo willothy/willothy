@@ -17,6 +17,7 @@
         
         .rowtitle {
           padding-bottom: 5px;
+	        color: #fefefe;
         }
         
         @media (prefers-color-scheme: dark) {

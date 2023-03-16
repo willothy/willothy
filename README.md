@@ -1,28 +1,3 @@
-```rust
-pub struct Willothy {
-    interests: Vec<&'static str>,
-    projects: Vec<Project>
-}
-
-impl Default for Willothy {
-    fn default() -> Self {
-        Willothy {
-            interests: vec![
-                "Compilers",
-                "OS Dev & Systems Programming",
-                "Neovim",
-                "Rust"
-            ],
-            projects: vec![
-                Project::NeovimPlugin("flatten.nvim", Lang::Lua),
-                Project::NeovimPlugin("moveline.nvim", Lang::Rust),
-                Project::Library("nvim-utils", Lang::Rust),
-                Project::Compiler("sharp", Lang::Rust),
-            ]
-        }
-    }
-}
-```
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact&theme=dracula)
 

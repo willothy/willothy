@@ -6,12 +6,6 @@ Willothy {
         "Neovim",
         "Rust"
     ],
-    projects: vec![
-        Project::NeovimPlugin("flatten.nvim", Lang::Lua),
-        Project::NeovimPlugin("moveline.nvim", Lang::Rust),
-        Project::Library("nvim-utils", Lang::Rust),
-        Project::Compiler("sharp", Lang::Rust),
-    ]
 }
 ```
 

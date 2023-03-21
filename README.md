@@ -7,8 +7,7 @@ Willothy {
         "Rust"
     ],
     contact: Info {
-        email: "will@willothy.com",
-        dev_discord: "https://discord.gg/QwtXWbZXVF"
+        email: "will@willothy.com"
     }
 }
 ```

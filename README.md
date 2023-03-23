@@ -9,14 +9,17 @@ let contact = Info::Email("will@willothy.com");
 ```
 
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact&theme=dracula)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact)
 
 ### Latest projects
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=veil.nvim)](https://github.com/willothy/veil.nvim)-->
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=flatten.nvim)](https://github.com/willothy/flatten.nvim)
-
+<a href="https://github.com/willothy/veil.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=veil.nvim" />
+</a>
+<a href="https://github.com/willothy/flatten.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=flatten.nvim" />
+</a>
+<br /><br />
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/willothy?tab=repositories&q=nvim&type=public&language=&sort=stargazers)
 [![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324")](https://github.com/willothy?tab=repositories&q=&type=public&language=rust&sort=stargazers)

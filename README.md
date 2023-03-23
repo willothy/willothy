@@ -13,9 +13,9 @@ let contact = Info::Email("will@willothy.com");
 
 ### Latest projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=veil.nvim)](https://github.com/willothy/veil.nvim)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=veil.nvim)](https://github.com/willothy/veil.nvim)-->
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=flatten.nvim)](https://github.com/willothy/flatten.nvim)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=flatten.nvim)](https://github.com/willothy/flatten.nvim)
 
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/willothy?tab=repositories&q=nvim&type=public&language=&sort=stargazers)

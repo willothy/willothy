@@ -1,19 +1,21 @@
 ```rust
-Willothy {
-    interests: vec![
-        "Compilers",
-        "OS Dev & Systems Programming",
-        "Neovim",
-        "Rust"
-    ],
-    contact: Info {
-        email: "will@willothy.com"
-    }
-}
+let interests = vec![
+    "Compilers",
+    "OS Dev & Systems Programming",
+    "Neovim",
+    "Rust"
+];
+let contact = Info::Email("will@willothy.com");
 ```
 
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact&theme=dracula)
+
+### Latest projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=veil.nvim)](https://github.com/willothy/veil.nvim)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=flatten.nvim)](https://github.com/willothy/flatten.nvim)
+
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/willothy?tab=repositories&q=nvim&type=public&language=&sort=stargazers)
 [![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324")](https://github.com/willothy?tab=repositories&q=&type=public&language=rust&sort=stargazers)

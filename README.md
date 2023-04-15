@@ -13,8 +13,8 @@ let contact = Info::Email("will@willothy.com");
 
 ### Latest projects
 
-<a href="https://github.com/willothy/veil.nvim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=veil.nvim" />
+<a href="https://github.com/willothy/wezterm.nvim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=wezterm.nvim" />
 </a>
 <a href="https://github.com/willothy/flatten.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=flatten.nvim" />

@@ -13,12 +13,13 @@ let contact = Info::Email("will@willothy.com");
 
 ### Latest projects
 
+<a href="https://github.com/willothy/sesh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=sesh" />
+</a>
 <a href="https://github.com/willothy/wezterm.nvim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=wezterm.nvim" />
 </a>
-<a href="https://github.com/willothy/flatten.nvim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=flatten.nvim" />
-</a>
+
 <br /><br />
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/willothy?tab=repositories&q=nvim&type=public&language=&sort=stargazers)

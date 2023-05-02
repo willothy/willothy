@@ -1,7 +1,7 @@
 ```rust
 let interests = vec![
     "Open Source",
-    "Compilers",
+    "Compilers & Developer tools",
     "OS Dev & Systems Programming",
     "Neovim",
     "Rust"

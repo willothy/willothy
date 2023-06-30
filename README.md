@@ -12,6 +12,8 @@ let contact = Info::Email("will@willothy.com");
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact)
 
+<!--
+
 ### Latest projects
 
 <a href="https://github.com/willothy/sesh">
@@ -22,6 +24,7 @@ let contact = Info::Email("will@willothy.com");
 </a>
 
 <br /><br />
+-->
 
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/willothy?tab=repositories&q=nvim&type=public&language=&sort=stargazers)
 [![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324")](https://github.com/willothy?tab=repositories&q=&type=public&language=rust&sort=stargazers)

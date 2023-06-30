@@ -1,4 +1,4 @@
-```rust
+<!--```rust
 let interests = vec![
     "Open Source",
     "Compilers & Developer tools",
@@ -7,7 +7,7 @@ let interests = vec![
     "Rust"
 ];
 let contact = Info::Email("will@willothy.com");
-```
+```-->
 
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact)

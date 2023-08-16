@@ -12,6 +12,8 @@ let contact = Info::Email("will@willothy.com");
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willothy&layout=compact)
+
 <!--
 
 ### Latest projects

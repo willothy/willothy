@@ -1,36 +1,19 @@
-<!--```rust
-let interests = vec![
-    "Open Source",
-    "Compilers & Developer tools",
-    "OS Dev & Systems Programming",
-    "Neovim",
-    "Rust"
-];
-let contact = Info::Email("will@willothy.com");
-```-->
+Hi, I'm willothy
 
+I like Neovim, compilers, distributed systems and Rust.
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=willothy&layout=compact)
+I'm the CTO of [@fortress-build](https://github.com/fortress-build).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willothy&layout=compact)
+In my free time I build Neovim plugins. I mostly build them for my own personal
+use - I build things that I need - but I document and maintain them for anyone
+to use.
 
-<!--
+My actively maintained plugins:
 
-### Latest projects
-
-<a href="https://github.com/willothy/sesh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=sesh" />
-</a>
-<a href="https://github.com/willothy/wezterm.nvim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=willothy&repo=wezterm.nvim" />
-</a>
-
-<br /><br />
--->
-
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/willothy?tab=repositories&q=neovim&type=public&language=&sort=stargazers)
-[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324")](https://github.com/willothy?tab=repositories&q=&type=public&language=rust&sort=stargazers)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white")](https://github.com/willothy?tab=repositories&q=&type=public&language=lua&sort=stargazers)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/willothy?tab=repositories&q=&type=&language=c&sort=stargazers)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/willothy?tab=repositories&q=&type=&language=typescript&sort=stargazers)
-
+- [flatten.nvim](https://github.com/willothy/flatten.nvim)
+- [nvim-cokeline](https://github.com/willothy/nvim-cokeline)
+- [wezterm.nvim](https://github.com/willothy/wezterm.nvim)
+- [durable.nvim](https://github.com/willothy/durable.nvim)
+- [savior.nvim](https://github.com/willothy/savior.nvim)
+- [strat-hero.nvim](https://github.com/willothy/strat-hero.nvim)
+- [judge.lua](https://github.com/willothy/judge.lua)

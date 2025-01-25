@@ -2,7 +2,7 @@ Hi, I'm willothy
 
 I like Neovim, compilers, distributed systems and Rust.
 
-I'm the CTO of [@fortress-build](https://github.com/fortress-build).
+I write lots of Rust at @freestyle-sh.
 
 In my free time I build Neovim plugins. I mostly build them for my own personal
 use - I build things that I need - but I document and maintain them for anyone
